@@ -1,0 +1,20 @@
+a. number of files:
+242
+
+
+b. number of classes:
+201
+
+
+c. name of the largest class file (.java) in the project based on the LOC value:
+org.apache.commons.text.TextStringBuilder
+
+
+d. The name of the two classes (or packages) with the highest coupling values (Using one of the following metrics: Afferent/Efferent coupling or Coupling Between Objects (CBC)) 
+org.apache.commons.text.lookup.StringLookupFactory(CBO=38)
+org.apache.commons.text.lookup.AbstractStringLookup(CBO=22); 
+
+
+
+e. The name of the class with the highest Cyclomatic Complexity (or weighted complexity) value:
+org.apache.commons.text.TextStringBuilder
